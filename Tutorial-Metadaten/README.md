@@ -25,3 +25,4 @@ Viel Spaß beim Bearbeiten ;)
 
 Note: Dieses Tutorial ist im Rahmen des Online-Kurses "Datenmanagement und Archivierung im Forschungsumfeld" an der Hochschule Mannheim unter der Leitung von Dr. Maximilian Fünfgeld entstanden.
 
+[<img src=https://upload.wikimedia.org/wikipedia/commons/f/f7/Hochschule_Mannheim_logo.svg width="250"/>](https://upload.wikimedia.org/wikipedia/commons/f/f7/Hochschule_Mannheim_logo.svg)
