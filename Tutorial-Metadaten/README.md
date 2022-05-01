@@ -13,6 +13,7 @@ Als Lernmaterialien stehen dir Folien im Jupyter-Notebook Format mit folgenden t
 
 Um die Theorie noch besser verstehen zu können und auch praktische Erfahrungen zu sammeln, gibt es darüber hinaus 3 Notebooks mit vertiefenden Übungen zu folgenden Themenbereichen:
 
+* Aufgabe Einführung und Metadatenschema
 * Aufgabe zu strukturellen Daten
 * Aufgabe zu semantischen Daten
 * Aufgabe Analyse mit Datensatz und Beantwortung der Fragestellung aus der Geschichte
