@@ -17,7 +17,6 @@ Um die Theorie noch besser verstehen zu können und auch praktische Erfahrungen 
 * Aufgabe Einführung und Metadatenschema
 * Aufgabe zu strukturellen Daten
 * Aufgabe zu semantischen Daten
-* Aufgabe Analyse mit Datensatz und Beantwortung der Fragestellung aus der Geschichte
 
 Falls du dich noch tiefgehender mit Metadaten auseinandersetzen möchtest, haben wir dir einige weiterführende Links am Ende des Theoretischen Teils hinterlegt. 
 
